@@ -1,6 +1,6 @@
 # Johurul Hassan Mazumder
 
-[Email](mailto:johurulhassan000@gmail.com) | [Phone](tel:+916901183307) | Hailakandi, Assam, India
+[Email](mailto:johurulhassan000@gmail.com)| Hailakandi, Assam, India
 
 ## Summary
 
