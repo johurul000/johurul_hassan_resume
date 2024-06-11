@@ -55,3 +55,9 @@ Small command error fixing in Thanos tutorial.
 ### Quarkus | [Merge Request](https://github.com/quarkusio/quarkus/pull/22052)
 
 Basic Basic Docs fixing in Quarkus
+
+## Social Media
+- [ LeetCode ](https://leetcode.com/u/Johurul000/)
+- [ X ](https://x.com/johurulmaz)
+- [ YouTube ](https://www.youtube.com/@johurulhassan)
+- [ LinkedIn ](https://www.linkedin.com/in/johurul-hassan-mazumder-936620234/)
