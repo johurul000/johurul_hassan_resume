@@ -46,6 +46,10 @@ Implemented a Django application with a customized user model, extending default
 
 Created a wiki-style application using Django. Features include article creation, editing, and search with markdown support.
 
+### [Golang Projects](https://github.com/johurul000/golang-projects/)
+
+This repository consists of some golang projects I have created. It includes a Text to PDF app, Bookstore a simple digital library and many more.
+
 ## Experience
 
 ### Thanos-io Tutorials | [Merge Request](https://github.com/thanos-io/tutorials/pull/3)
